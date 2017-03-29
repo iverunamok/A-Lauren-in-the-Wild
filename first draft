@@ -15,7 +15,7 @@
     
 <img id="glacier-image" class="img-center" src="https://s5.postimg.org/vo0mwjfvb/edit.jpg" img-responsive" alt="Lauren in Glacier. "> </img>
                           
-<p id="under-image" class="img-responsive">There was once an illusive creature that originated out of the small town of Strum, Wisconsin.
+<p id="under-image" class="text-center" class="img-responsive">There was once an illusive creature that originated out of the small town of Strum, Wisconsin.
   </p>
   <p id="under-image2" class="text-center"> Although rarely found there now, this rare being can be found and captured (in <a href="https://www.youtube.com/watch?v=pu81lja2lX4 ">film</a>) all over the world.</p>
 
